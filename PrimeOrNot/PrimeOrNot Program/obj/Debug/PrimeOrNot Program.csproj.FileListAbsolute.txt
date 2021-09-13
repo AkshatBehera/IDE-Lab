@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\bin\Debug\PrimeOrNot Program.exe.config
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\bin\Debug\PrimeOrNot Program.exe
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\bin\Debug\PrimeOrNot Program.pdb
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\obj\Debug\PrimeOrNot Program.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\obj\Debug\PrimeOrNot_Program.Form1.resources
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\obj\Debug\PrimeOrNot_Program.Properties.Resources.resources
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\obj\Debug\PrimeOrNot Program.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\obj\Debug\PrimeOrNot Program.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\obj\Debug\PrimeOrNot Program.exe
+C:\Users\admin\source\repos\PrimeOrNot Program\PrimeOrNot Program\obj\Debug\PrimeOrNot Program.pdb
