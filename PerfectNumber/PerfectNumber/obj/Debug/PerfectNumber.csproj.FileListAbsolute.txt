@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.Form1.resources
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.Properties.Resources.resources
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe.config
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.pdb
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.exe
+C:\Users\admin\source\repos\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.pdb
